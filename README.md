@@ -1,7 +1,7 @@
 # Hi, I'm Saahil.
 
 ## About me
-I am a second year undergraduate studying Computer Science at the University of Warwick.
+I am a second year undergraduate studying Computer Science at the University of Warwick and an aspiring software developer.
 
 ## Projects
 - [<b> AudioEffectDSP </b>](https://github.com/saahilbahadur77/AudioEffectDSP)<br>
